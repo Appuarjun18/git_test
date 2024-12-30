@@ -2,4 +2,9 @@ Now rwbasing
 editing
 feature
 one
+<<<<<<< HEAD
 abc6767
+=======
+
+revert
+>>>>>>> parent of 83f4760 (Revert "reverting")
